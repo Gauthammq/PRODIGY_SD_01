@@ -54,3 +54,7 @@ Benefits
 
 By following these steps, you can create a functional and informative Temperature Conversion Program in Python. This approach focuses on understanding the concepts and steps involved without delving into the specific code implementation details.
 
+## Author
+
+ - [Gautham Krishna R](https://github.com/Gauthammq)
+
